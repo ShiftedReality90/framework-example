@@ -1,27 +1,30 @@
 header{
-    font-family: Courier, monospace;
-    background-color: black;
-    color: white;
-    text-align: center;
+
+font-family: Courier, monospace;
+background-color: black;
+color: white;
+text-align: center;
 }
 main{
-    width:calc(75%);
-    float:left;
-    padding:30px;
+width:calc(75%);
+float:left;
+padding:30px;
+color: white;
 }
 footer{
-    text-align: center;
-    background-color: black;
-    color: white;
+text-align: center;
+background-color: black;
+color: white;
 }
 .info{
-  text-align: left;  
-  color: white; 
-  padding: 5px;    
+text-align: left;  
+color: white; 
+padding: 5px;    
 }
 h2{
-  font-family: Courier, monospace; 
+font-family: Courier, monospace; 
 }
 .TourDates{
-  color: white;
+color: white;
+
 }
